@@ -1,4 +1,4 @@
-# Steam
+# Steam Smart Shopper
 
 My app helps gamers on a budget decide which Steam games to buy by comparing prices, discounts, player ratings, and average playtime.
 
@@ -11,7 +11,7 @@ Gamers on a budget have to compare many Steam games to decide which ones are wor
 My app answers three questions:
 1. **Sub-question 1:**Fit:** Which highly rated games fit the genre and budget the gamer types in?
 2. **Sub-question 2:**Deals:** Which of them are on sale today, and how close to their lowest price ever?
-3. **Sub-question 3:** Popularity:** Which highly rated games within the gamer's budget have the most active players?
+3. **Sub-question 3:**Popularity:** Which highly rated games within the gamer's budget have the most active players?
 
 ## Data
 The [Steam Games Dataset](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset) on Kaggle, collected in March 2025. The dataset is shared under the MIT License by its creator, artermiloff. This repo uses `steam_games.csv`, a smaller file made for the course: the 1,000 games with the most reviews.
